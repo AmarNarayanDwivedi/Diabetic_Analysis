@@ -43,7 +43,7 @@ To set up the project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-    git clone https://github.com/adyanandi/Diabetic_Alert.git
+    git clone https://github.com/AmarNarayanDwivedi/Diabetic_Analysis
    cd Diabetic_Alert
 2. **Ensure pipenv is Installed:**
     ```bash
